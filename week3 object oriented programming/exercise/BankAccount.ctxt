@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankAccount()
+comment0.text=\n\ Default\ constructure\ for\ a\ bank\ account\ with\ zero\ balance\n
+comment1.params=initiaBalance\ name
+comment1.target=BankAccount(double,\ java.lang.String)
+comment1.text=\n\ Construct\ a\ balance\ with\ a\ given\ initial\ balance\ and\ owner's\ name\n\ @param\ \ \ initiaBalance\ \ \ \ \ \ \ the\ initial\ balance\n\ @param\ \ \ name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ name\ of\ owner\n
+comment2.params=dAmount
+comment2.target=void\ deposition(double)
+comment2.text=\n\ \ Method\ for\ deposition\ money\ to\ the\ bank\ account\n\ \ @para\ \ \ dAmount\ \ \ \ \ the\ amount\ to\ be\ deposited\n
+comment3.params=wAmount
+comment3.target=void\ withdraw(double)
+comment3.text=\n\ \ Method\ for\ withdrawing\ money\ from\ the\ bank\ account\n\ \ @para\ \ \ wAmount\ \ \ \ \ the\ amount\ to\ be\ withdrawn\n
+comment4.params=
+comment4.target=double\ getBalance()
+comment4.text=\n\ \ Method\ for\ getting\ the\ current\ balance\ of\ the\ bank\ account\n\ \ @return\ \ \ \ \ the\ current\ balance\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ \ Main\ method\ for\ testing\ the\ bank\ account\n
+numComments=6

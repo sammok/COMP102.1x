@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Compile()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Compile\n
+comment1.params=x1\ y2\ z3
+comment1.target=void\ compare(int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
